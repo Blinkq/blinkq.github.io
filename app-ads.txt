@@ -1401,3 +1401,4 @@ app-stock.com, 731135, RESELLER
 beapup.com, 583299, RESELLER
 clistltd.com, 431132, RESELLER
 facebook.com, 1655301603060324, RESELLER, c3e20eee3f780d68
+google.com, pub-8967816468082700, DIRECT, f08c47fec0942fa0
